@@ -1,16 +1,96 @@
-# React + Vite
+# Personal Portfolio Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern, responsive developer portfolio built with React.js to showcase my projects, technical skills, and frontend development experience. The portfolio focuses on clean UI, smooth animations, and an excellent user experience across all devices.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## ✨ Features
 
-## React Compiler
+- Modern & Responsive Design
+- Smooth Page Animations
+- Interactive Project Showcase
+- Skills Section
+- About Me Section
+- Contact Section
+- Download Resume
+- GitHub & LinkedIn Integration
+- Mobile-First Layout
+- Fast Performance
+- Clean Component Architecture
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+---
 
-## Expanding the ESLint configuration
+## 🛠 Tech Stack
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- React.js
+- Tailwind CSS
+- Vite
+- Framer Motion
+- React Icons
+- Swiper.js
+
+---
+
+
+
+## 🚀 Live Demo
+
+https://sagarbisht.netlify.app
+
+---
+
+
+
+## ⚙️ Installation
+
+```bash
+git clone https://github.com/sagar7089/Portfolio-site
+
+cd portfolio
+
+npm install
+
+npm run dev
+```
+
+---
+
+## 💼 Portfolio Sections
+
+- Home
+- About
+- Skills
+- Projects
+- Resume
+- Contact
+
+---
+
+## 📚 What I Learned
+
+- React Component Architecture
+- Responsive Web Design
+- Framer Motion Animations
+- Tailwind CSS
+- Performance Optimization
+- Reusable Components
+- Git & GitHub Workflow
+- Modern UI/UX Design
+
+---
+
+## 🔮 Future Improvements
+
+- Dark Mode
+- Blog Section
+- Project Filtering
+- Multi-language Support
+- Contact Form Backend
+- Visitor Analytics
+- Theme Customization
+
+---
+
+## 📄 License
+
+This project is licensed under the MIT License.
