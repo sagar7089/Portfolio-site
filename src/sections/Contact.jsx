@@ -2,7 +2,7 @@ import React, { useState } from 'react'
 import { motion } from "framer-motion"
 import emailjs from "@emailjs/browser"
 import { toast, Bounce } from "react-toastify"
-import astra from "../assets/astra.png"
+import astra from "../assets/Astra.png"
 import stars from "../assets/stars.jpg"
 import { useForm } from 'react-hook-form'
 
